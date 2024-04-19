@@ -1,6 +1,4 @@
-#########################################################################
-A Simple ToDo List App using JSONPlaceHolder Data with CRUD Function
-#########################################################################
+### A Simple ToDo List App using JSONPlaceHolder Data with CRUD Function ###
 
 # Getting Started with Create React App
 
